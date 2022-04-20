@@ -1,4 +1,4 @@
-napari>=0.3.6
+napari==0.3.6
 magicgui
 pyift>=0.0.1.dev4
 scikit-image
