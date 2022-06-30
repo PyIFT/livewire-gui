@@ -9,13 +9,24 @@ Simple user interface to perform segmentation using live-wire.
 
 ## Installation
 
-```shell script
+Clone the repository into your computer through the command line using git
+```bash
+git clone https://github.com/PyIFT/livewire-gui
+```
+
+Move into cloned directory
+```bash
+cd livewire-gui
+```
+
+Install requirements
+```bash
 pip install -r requirements
 ```
 
 ## Usage
 
-```shell script
+```bash
 python app.py <image file>
 ```
 
